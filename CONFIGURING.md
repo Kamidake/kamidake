@@ -30,5 +30,5 @@
 | `DEFAULT_MEDIAFUSION_TIMEOUT`      | `15000`                                              | Default timeout for MediaFusion requests (in milliseconds).                              |
 | `DEFAULT_EASYNEWS_TIMEMOUT`        | `15000`                                              | Default timeout for Easynews requests (in milliseconds).                                 |
 | `DEFAULT_EASYNEWS_PLUS_TIMEMOUT`   | `15000`                                              | Default timeout for Easynews Plus re  uests (in milliseconds).                            |
-| `SHOW_DIE`                         | `true`                                               | Whether to display the die emoji in AIOStreams results                                                          |
+| `SHOW_DIE`                         | `false`                                               | Whether to display the die emoji in AIOStreams results                                                          |
 | `LOG_SENSITIVE_INFO`               | `false`                                              | Whether to log sensitive information.                                                      |
